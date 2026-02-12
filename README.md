@@ -20,5 +20,5 @@ I built this project to practice event handling, random positioning, animations,
 
 ## Links
 
-- [Live Demo](https://snehashrestha123.github.io/project-name)
-- [Source Code](https://github.com/snehashrestha123/project-name)
+- [Live Demo](https://snehashrestha123.github.io/Balloon-Pop-up-Game/)
+- [Source Code](https://github.com/Snehashrestha123/Balloon-Pop-up-Game)
